@@ -1,0 +1,26 @@
+{
+  "name": "justdiff",
+  "version": "1.0.0",
+  "description": "simple wrapper around the `diff` package to just print it with a 1 liner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubensayshi/justdiff.git"
+  },
+  "keywords": [
+    "diff"
+  ],
+  "author": "Ruben de Vries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubensayshi/justdiff/issues"
+  },
+  "homepage": "https://github.com/rubensayshi/justdiff#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "diff": "^2.2.1"
+  }
+}
